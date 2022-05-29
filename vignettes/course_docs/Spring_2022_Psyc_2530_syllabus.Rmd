@@ -33,7 +33,7 @@ This course will provide an introductory overview of basic concepts in cognitive
 |Goal|Learning Outcome|
 |----|-----|
 | 1. Exposure to breadth of theory and data across major domains of cognition (listed above) | Students will demonstrate ability to identify and describe domain-specific theories and phenomena|
-| 2. Understanding deduction from theory, which requires an understanding of the assumptions of a theory and how they combine to force a clear prediction.|Students will demonstrate the ability to describe in written format the assumptions of a domain-specific theory along to show how the theory demands a prediction.|
+| 2. Understanding deduction from theory, which requires an understanding of the assumptions of a theory and how they combine to form a clear prediction.|Students will demonstrate the ability to describe in written format the assumptions of a domain-specific theory along to show how the theory demands a prediction.|
 | 3. Understanding experimental design | Students will demonstrate working knowledge of the elements of particular experimental designs that create opportunity to test a theoretical idea |
 | 4. Understanding patterns in data | Students will demonstrate the ability to interpret tables and figures, including the pattern for how a dependent measure changes across the levels/conditions of the independent variable |
 | 5. Understanding inference from results to theory |Students will demonstrate the ability to form an inference about an observed result, and display the ability to evaluate whether or not a result conforms to a prediction made by a theory in cognitive psychology |
